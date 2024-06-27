@@ -1,5 +1,6 @@
 **Dictionary Application with Trie Data Structure**
-**Description ** 
+
+**Description** 
 This C++ program implements a simple dictionary application using a Trie data structure. It supports various functionalities including loading a dictionary from a file, adding new words, searching for words, deleting words, updating meanings, and providing word suggestions. The application is designed to handle common dictionary operations efficiently with a user-friendly interface.
 
 **Features**
