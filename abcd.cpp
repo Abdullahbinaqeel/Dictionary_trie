@@ -26,13 +26,13 @@ Trie* NewNode() {//creating and initilizing new node
 
 void animation()
 {
-    cout << "DDDDDDD  IIIIIIIII  CCCCCCCC TTTTTTTTT IIIIIIIII   OOOOO    NNN   NNN AAAAAAAAA RRRRRR   YYY     YYY \n";
-    cout << "DDDDDDDD IIIIIIIII CCCCCCCCC TTTTTTTTT IIIIIIIII  OOOOOOO   NNNN  NNN AAAAAAAAA RRR  RRR  YYY   YYY  \n";
-    cout << "DDD   DDD   III   CCCC          TTT       III    OOO   OOO  NNNNN NNN AAA   AAA RRR   RRR  YYYYYYY   \n";
-    cout << "DDD   DDD   III   CCC           TTT       III   OOO     OOO NNNNNNNNN AAAAAAAAA RRR  RRR     YYY     \n";
-    cout << "DDD   DDD   III   CCCC          TTT       III    OOO   OOO  NNN NNNNN AAAAAAAAA RRRRRR       YYY     \n";
-    cout << "DDDDDDDD IIIIIIIII CCCCCCCCC    TTT    IIIIIIIII  OOOOOOO   NNN  NNNN AAA   AAA RRR  RRR     YYY    |----|\n";
-    cout << "DDDDDDD  IIIIIIIII  CCCCCCCC    TTT    IIIIIIIII   OOOOO    NNN   NNN AAA   AAA RRR   RRR    YYY    |____|\n\n\n\n";
+    cout << "DDDDDDD  IIIIIIIII  CCCCCCCC TTTTTTTTT IIIIIIIII   OOOOO    NNN   NNN AAAAAAAAA RRRRRR   YYY     YYY  |''''|   \n";
+    cout << "DDDDDDDD IIIIIIIII CCCCCCCCC TTTTTTTTT IIIIIIIII  OOOOOOO   NNNN  NNN AAAAAAAAA RRR  RRR  YYY   YYY   |    |   \n";
+    cout << "DDD   DDD   III   CCCC          TTT       III    OOO   OOO  NNNNN NNN AAA   AAA RRR   RRR  YYYYYYY    |    |   \n";
+    cout << "DDD   DDD   III   CCC           TTT       III   OOO     OOO NNNNNNNNN AAAAAAAAA RRR  RRR     YYY      |____|   \n";
+    cout << "DDD   DDD   III   CCCC          TTT       III    OOO   OOO  NNN NNNNN AAAAAAAAA RRRRRR       YYY               \n";
+    cout << "DDDDDDDD IIIIIIIII CCCCCCCCC    TTT    IIIIIIIII  OOOOOOO   NNN  NNNN AAA   AAA RRR  RRR     YYY      |""""|   \n";
+    cout << "DDDDDDD  IIIIIIIII  CCCCCCCC    TTT    IIIIIIIII   OOOOO    NNN   NNN AAA   AAA RRR   RRR    YYY      |____|   \n\n\n\n";
     system("PAUSE");
 }
 
